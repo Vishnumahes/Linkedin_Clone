@@ -6,6 +6,11 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
 
+const link = document.createElement('link');
+link.rel = 'stylesheet';
+link.href = 'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200';
+document.head.appendChild(link);
+
 const container = document.getElementById('root');
 const root = createRoot(container);
 
