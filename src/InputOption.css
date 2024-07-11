@@ -1,22 +1,21 @@
 .inputOption {
-    display: flex;
-    align-items: center;
-    margin-top: 10px;
-    color: gray;
-    padding: 10px;
-    cursor: pointer;
-    transition: color 0.2s ease-in;
-  }
-  
-  .inputOption h4 {
-    margin-left: 10px;
-  }
-  
-  .inputOption:hover {
-    color: black;
-  }
-  
-  .inputOption__icon {
-    font-size: 24px;
-  }
-  
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  color: gray;
+  padding: 10px;
+  cursor: pointer;
+  transition: color 0.2s ease-in;
+}
+
+.inputOption h4 {
+  margin-left: 10px;
+}
+
+.inputOption:hover {
+  color: black;
+}
+
+.inputOption__icon {
+  font-size: 24px;
+}
