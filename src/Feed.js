@@ -34,11 +34,12 @@ const Feed = () => {
       return;
     }
 
-    const name = user.displayName || 'Vishnu Vardhan Maheswaran';
-    const description = user.email || '';
-    const photoUrl = user.photoUrl || '';
+    const name = user.displayName;
+    const description = user.email;
+    const message = input;
+    const photoUrl = user.photoUrl || "";
 
-    if (!name || !description || !input) {
+    if (!name || !description || !message) {
       alert('All fields are required');
       return;
     }
@@ -46,7 +47,7 @@ const Feed = () => {
     db.collection('posts').add({
       name,
       description,
-      message: input,
+      message,
       photoUrl,
       timestamp: firebase.firestore.FieldValue.serverTimestamp(),
     });

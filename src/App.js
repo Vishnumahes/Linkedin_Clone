@@ -1,34 +1,3 @@
-// import React from 'react';
-// import './App.css';
-// import { selectUser } from './features/userSlice';
-// import Header from './Header';
-// import Sidebar from './Sidebar';
-// import Feed from './Feed';
-// import { useSelector } from 'react-redux';
-// import Login from './Login';
-
-
-// function App() {
-//   const user = useSelector(selectUser)
-//   return (
-//     <div className="App">
-//       <Header />
-//       {!user ?(
-//         <Login/>
-//       ) : (
-//       <div className="app__body">
-//         <Sidebar />
-//         <Feed />
-//         {/*Widgets*/}
-//       </div>
-//       )}
-//     </div>
-//   );
-// }
-
-// export default App;
-
-
 import React, { useEffect } from 'react';
 import './App.css';
 import { useSelector, useDispatch } from 'react-redux';
@@ -38,6 +7,7 @@ import Sidebar from './Sidebar';
 import Feed from './Feed';
 import Login from './Login';
 import { auth } from './Firebase';
+import Widgets from './Widgets';
 
 function App() {
   const user = useSelector(selectUser);
@@ -71,7 +41,7 @@ function App() {
         <div className="app__body">
           <Sidebar />
           <Feed />
-          {/* Widgets */}
+          <Widgets/>
         </div>
       )}
     </div>
