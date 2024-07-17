@@ -1,3 +1,13 @@
+Watch the demo video to see the application in action:
+
+<video width="600" controls>
+  <source src="Docs/Demo-LinkedIn video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
 # LinkedIn Clone
 
 This project is a LinkedIn clone built using modern web technologies. It includes user authentication, profile management, posting functionality, and real-time updates.
