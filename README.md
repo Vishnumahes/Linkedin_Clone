@@ -1,9 +1,6 @@
 Watch the demo video to see the application in action:
 
-<video width="600" controls>
-  <source src="Docs/Demo-LinkedIn video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![LinkedIn Clone Demo](https://github.com/user-attachments/assets/e530c4e0-3cfa-41e3-bb5d-be896c2bc2ac)]
 
 
 
