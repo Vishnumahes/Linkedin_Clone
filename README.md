@@ -1,6 +1,6 @@
 Watch the demo video to see the application in action:
 
-[![LinkedIn Clone Demo](https://github.com/user-attachments/assets/e530c4e0-3cfa-41e3-bb5d-be896c2bc2ac)]
+https://github.com/user-attachments/assets/e530c4e0-3cfa-41e3-bb5d-be896c2bc2ac
 
 
 
