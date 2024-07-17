@@ -2,6 +2,8 @@ Watch the demo video to see the application in action:
 
 https://github.com/user-attachments/assets/e530c4e0-3cfa-41e3-bb5d-be896c2bc2ac
 
+(https://github.com/user-attachments/assets/73ea7eec-c6f2-4c8a-a7bc-f797a693f8ba)
+
 
 
 
