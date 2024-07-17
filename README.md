@@ -2,7 +2,7 @@ Watch the demo video to see the application in action:
 
 https://github.com/user-attachments/assets/e530c4e0-3cfa-41e3-bb5d-be896c2bc2ac
 
-src/Docs/image.png
+(src/Docs/image.png)
 
 
 
