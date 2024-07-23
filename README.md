@@ -64,7 +64,7 @@ This project is a LinkedIn clone built using modern web technologies. It include
 
 6. **Open your browser and navigate to:**
     ```
-    http://localhost:3000
+    https://linkedin-clone-yt-10b83.web.app
     ```
 
 ## Demo
